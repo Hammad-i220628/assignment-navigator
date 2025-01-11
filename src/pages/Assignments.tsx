@@ -45,7 +45,8 @@ export default function Assignments() {
                 </div>
               </div>
             </Card>
-          ))}
+          );
+        })}
       </div>
     </div>
   );
